@@ -1,6 +1,9 @@
 main_test.py
 /.vscode/
 __pycache__
-schedule_core/test-subjects
+
 my_schedules/*
 !my_schedules/readme.txt
+
+my_subjects/*
+!my_subjects/readme.txt

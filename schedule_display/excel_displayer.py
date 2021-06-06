@@ -67,7 +67,7 @@ def put_set_of_courses_on_worksheet(work_sheet, set_of_courses):
         subject_list_ipos += 1
 
 
-def save_possible_schedules_on_work_book(possible_schedules):
+def save_possible_schedules_on_workbook(possible_schedules):
 
     possible_schedules_by_chunks = chunks(possible_schedules, CHUNK_SIZE)
     schedule_number = 1
